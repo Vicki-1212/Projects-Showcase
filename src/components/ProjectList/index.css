@@ -1,0 +1,22 @@
+.project-list-item {
+  border: 2px solid #e2e8f0;
+  box-shadow: 2px 2px 2px 2px #e6e9ec ;
+  border-radius: 10px;
+  height: 230px;
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+  padding-left: 20px;
+  font-weight: bold;
+}

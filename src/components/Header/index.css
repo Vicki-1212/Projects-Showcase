@@ -1,0 +1,15 @@
+.header-container {
+  background-color: #f1f5f9;
+  height: 100px;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width:100%;
+}
+
+.logo-image {
+  height: 80px;
+  width: 180px;
+}
